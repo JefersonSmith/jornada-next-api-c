@@ -15,5 +15,9 @@ Home - Utilizando componentes em Next
 Destinos - Onde é realizado o consumo do API
 Contato - Com um formulário para dúvidas do cliente
 
+# Apresentação do projeto
+
+https://www.loom.com/share/8b030cdf8ce8456b83950762df119198?sid=e16c7d90-3f77-4764-be12-7cbe66201ba3
+
 
 
