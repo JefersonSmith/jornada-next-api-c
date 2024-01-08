@@ -1,0 +1,26 @@
+:root {
+  --laranja: #F0941F;
+  --verde-limao: #DAFF01;
+  --branco: white;
+}
+
+.barra-busca {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 1rem;
+    background: linear-gradient(to right, #2da1ee, #196774); 
+    border-radius: 25px;
+    font-weight: bolder;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    color: var(--branco);
+    width: 90%;
+  
+  }
+  
+  .titulo-busca{
+    color: var(--branco);
+  }
+
+  .botao-laranja {
+    background-color: var(--laranja);
+  }
+  
